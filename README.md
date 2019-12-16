@@ -14,4 +14,4 @@
  # Setup
  Be sure to edit path_locations.py to point towards:
  * racing sim tools path location
- * Add tesseract.exe path location to your environment variable
+ * tesseract.exe path location
