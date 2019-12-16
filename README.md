@@ -7,11 +7,11 @@
  Jupyter is used now to reduce the number of times I have to rerun program. Final file with be strictly .py at v1.0
  
  # Required
- pyautogui
- pywinauto
- pytesseract
+ * pyautogui
+ * pywinauto
+ * pytesseract
  
  # Setup
  Be sure to edit path_locations.py to point towards:
- *racing sim tools path location
- *Add tesseract.exe path location to your environment variable
+ * racing sim tools path location
+ * Add tesseract.exe path location to your environment variable
